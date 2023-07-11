@@ -10,3 +10,4 @@ console.log(str.match(/.+(?=@)/)[0])
 
 const str_test = ' heelllo world'
 console.log(str_test.trim())
+
